@@ -18,5 +18,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         // add ui..
+        // add bottom navigation..
     }
 }
