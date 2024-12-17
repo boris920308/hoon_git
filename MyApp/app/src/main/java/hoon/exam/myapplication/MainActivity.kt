@@ -25,5 +25,8 @@ class MainActivity : AppCompatActivity() {
         // release 0.4
 
         // login ...
+
+        // add id
+
     }
 }
