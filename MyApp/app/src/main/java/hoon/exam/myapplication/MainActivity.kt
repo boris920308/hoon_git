@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         // login ...
 
         // add id
+        // add pw
 
     }
 }
