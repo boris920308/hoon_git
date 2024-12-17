@@ -22,5 +22,6 @@ class MainActivity : AppCompatActivity() {
         // release 0.3
         // add ui..
         // add bottom navigation..
+        // release 0.4
     }
 }
