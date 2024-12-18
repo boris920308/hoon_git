@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
         // add pw
 
         // release 0.5
+        // release 0.6
 
     }
 }
