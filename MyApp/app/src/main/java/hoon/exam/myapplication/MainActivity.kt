@@ -33,5 +33,8 @@ class MainActivity : AppCompatActivity() {
         // release 0.6
         // release 0.7
 
+
+        // setting 0.1
+        // setting 0.2
     }
 }
