@@ -29,5 +29,7 @@ class MainActivity : AppCompatActivity() {
         // add id
         // add pw
 
+        // release 0.5
+
     }
 }
